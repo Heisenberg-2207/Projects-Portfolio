@@ -32,10 +32,10 @@ The work investigates various methods for learning and optimizing policies using
 
 Here are brief descriptions of ongoing projects that are still under development and may be considered for publication, thus not included in the current project portfolio:
 
-1. **Automated EEG-Based Classification**: Collaborating with Dr. Muhammad Adeel Parvaz from Mount Sinai Hospital, this project focuses on designing an advanced classifier using brain EEG data to distinguish between healthy individuals and those with schizophrenia. The approach involves a Graph Convolutional Neural Network (GCNN) pipeline applied to data from 23 schizophrenic and 40 healthy individuals, utilizing round-robin cross-validation to explore brain cluster interconnections.
+1. **Automated EEG-Based Classification**: Collaborating with Mount Sinai Hospital, this project focuses on designing an advanced classifier using brain EEG data to distinguish between healthy individuals and those with schizophrenia. The approach involves a Graph Convolutional Neural Network (GCNN) pipeline
 
 2. **Reinforcement Learning for Cost-Effective Nutrition**: This research aims to develop a reinforcement learning model that optimizes both financial and nutritional aspects of diet choices. The model trains an agent to select food that ensures optimal health while maintaining cost-effectiveness, balancing biological needs with economic constraints.
 
-3. **Numerical Modelling and Optimization for Data Center Cooling**: Focused on improving thermal management in data centers, this project involves numerical modeling of two-phase immersion cooling systems. The work includes optimizing processor placement, server board gaps, and coolant flow rates to enhance performance and reduce thermal coupling. The approach utilizes latent hypercube sampling for parameter selection and genetic algorithms for optimization.
+3. **Numerical Modelling and Optimization for Data Center Cooling**: Focused on improving thermal management in data centers, this project involves numerical modeling of two-phase immersion cooling systems. The work includes optimizing processor placement, server board gaps, and coolant flow rates to enhance performance and reduce thermal coupling.
 
 These projects are currently in progress, with the potential to contribute to future publications.
