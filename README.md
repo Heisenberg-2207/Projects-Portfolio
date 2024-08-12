@@ -2,19 +2,19 @@
 
 <img align="left" width="250" height="150" src="https://github.com/Heisenberg-2207/Projects-Portfolio/blob/main/Localisation%20and%20Mapping/Result.png"> *[Localisation and Mapping](https://github.com/Heisenberg-2207/Projects-Portfolio/tree/main/Localisation%20and%20Mapping)*
 
-I developed an image recognition system for detecting, localizing, and mapping wheelchairs as part of an automatic docking solution for a wheelchair power assist. Utilizing a deep learning model, annotated over 300 images to create a robust training dataset, achieving an accuracy of 86%.
+Developed an image recognition system for detecting, localizing, and mapping wheelchairs as part of an automatic docking solution for a wheelchair power assist. Utilizing a deep learning model, annotated over 300 images to create a robust training dataset, achieving an accuracy of 86%.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Heisenberg-2207/Projects-Portfolio/blob/main/Parallel%20Discrete%20Fourier%20Transformation/Result.png"> *[Discrete Fourier Transformation](https://github.com/Heisenberg-2207/Projects-Portfolio/tree/main/Parallel%20Discrete%20Fourier%20Transformation)*
 
-In the Parallel Scientific Computing course, Implemented the Discrete Fourier Transform (DFT) from scratch, utilizing OpenMP for shared memory and MPI for distributed memory in C and C++. Assessed the performance of these parallel implementations by analyzing scalability, efficiency, and speedup.
+Implemented the Discrete Fourier Transform (DFT) from scratch, utilizing OpenMP for shared memory and MPI for distributed memory in C and C++. Assessed the performance of these parallel implementations by analyzing scalability, efficiency, and speedup.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/Heisenberg-2207/Projects-Portfolio/blob/main/QLearning_SARSA_RL/world_img.png"> *[QLearning and SARSA RL](https://github.com/Heisenberg-2207/Projects-Portfolio/tree/main/QLearning_SARSA_RL)*
 
-Hyperparameter tuning using Bayesian Optimization to maximize the reward function in various gridworld environments. The experiments compared the performance of the two algorithms across different world configurations, analyzing factors such as reward, number of steps to reach the goal, and state visitation frequency. The study provides insights into the efficiency and effectiveness of the softmax and epsilon-greedy policies under different conditions.
+Hyperparameter tuning using Bayesian Optimization to maximize the reward function. Compared the performance of the two algorithms across different world configurations, analyzing factors such as reward, number of steps to reach the goal, and state visitation frequency. The study provides insights into the efficiency and effectiveness of the softmax and epsilon-greedy policies under different conditions.
 
 #
 
