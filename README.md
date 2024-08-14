@@ -30,7 +30,7 @@ The work investigates various methods for learning and optimizing policies using
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Heisenberg-2207/Projects-Portfolio/blob/main/Natural%20Language%20Projects/image_2024-08-14_160628596.png"> *[Distil BERT and GEMINI](https://github.com/Heisenberg-2207/Projects-Portfolio/tree/main/Natural%20Language%20Projects)*
+<img align="left" width="250" height="150" src="https://github.com/Heisenberg-2207/Projects-Portfolio/blob/main/Natural%20Language%20Projects/image_2024-08-14_160628596.png"> *[Natural Language Processing Projects](https://github.com/Heisenberg-2207/Projects-Portfolio/tree/main/Natural%20Language%20Projects)*
 
 This project fine-tuned DistilBERT for classifying mental health statuses based on text data and used GEMINI to classify user feedback as positive or negative. The combined models enhanced accuracy in mental health assessment and sentiment analysis.
 
