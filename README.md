@@ -30,6 +30,12 @@ The work investigates various methods for learning and optimizing policies using
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/Heisenberg-2207/Projects-Portfolio/blob/main/SMDP_IntraOption_RL/Result.png"> *[Distil BERT and GEMINI](https://github.com/Heisenberg-2207/Projects-Portfolio/tree/main/SMDP_IntraOption_RL)*
+
+This project fine-tuned DistilBERT for classifying mental health statuses based on text data and used GEMINI to classify user feedback as positive or negative. The combined models enhanced accuracy in mental health assessment and sentiment analysis.
+
+#
+
 Here are brief descriptions of ongoing projects that are still under development and may be considered for publication, thus not included in the current project portfolio:
 
 1. **Automated EEG-Based Classification**: Collaborating with Mount Sinai Hospital, this project focuses on designing an advanced classifier using brain EEG data to distinguish between healthy individuals and those with schizophrenia. The approach involves a Graph Convolutional Neural Network (GCNN) pipeline
